@@ -7,3 +7,7 @@ langchain_groq
 python-dotenv
 uvicorn
 streamlit
+langchain_community 
+langsmith 
+langgraph
+langchain-openai
