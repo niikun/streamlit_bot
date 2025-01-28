@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+scp /path/to/local/id_rsa username@remote_host:~/.ssh/id_rsascp /path/to/local/id_rsa username@remote_host:~/.ssh/id_rsascp /path/to/local/id_rsa username@remote_host:~/.ssh/id_rsa# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -169,3 +169,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*.pem
