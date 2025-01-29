@@ -52,6 +52,7 @@ config = {"configurable": {"thread_id": "1"}}
 
 # StreamlitのUI
 st.title("LangGraph Chatbot")
+st.write("You can ask me anything!")
 
 if "chat_history" not in st.session_state:
     st.session_state["chat_history"] = []
